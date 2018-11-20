@@ -9,4 +9,4 @@ math: true
 
 Look at this $x^2 = \sum_i y_i$.
 
-![Example image](/static/img/p.jpg)
+![Example image](/img/p.jpg)
