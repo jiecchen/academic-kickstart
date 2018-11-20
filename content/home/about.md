@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Randomized Algorithms",
-    "Machine Learning",
-    "Natural Language Processing"
+    "Big Data Analytics",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "BA in Mathematics"
   institution = "University of Minnesota Twin Cities"
-  year = 2013
+#  year = 2013
 
 #[[education.courses]]
 #  course = "BSc in Artificial Intelligence"
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-TODO
+I am a PhD student from Dept. of Computer Science at IUB. I am mostly working with Prof. Qin Zhang. Before coming to IUB, I studied math and computer science at University of Minnesota and did my senior project under Prof. [Sergey Bobkov](http://www-users.math.umn.edu/~bobko001/). I also worked for Wolfram Research, Google Ads and Google AI.
