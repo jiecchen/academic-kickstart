@@ -32,7 +32,7 @@ list_format = 1
 publication_type = "-1"
 +++
 
-**NIPS'18**, [Tight Bounds for Collaborative PAC Learning via Multiplicative Weights](https://arxiv.org/abs/1805.09217),  
+**NIPS'18**, [**Tight Bounds for Collaborative PAC Learning via Multiplicative Weights**](https://arxiv.org/abs/1805.09217),  
   ___Jiecao Chen___, [Qin Zhang](http://homes.sice.indiana.edu/qzhangcs/), [Yuan Zhou](http://homes.sice.indiana.edu/yzhoucs/)
 
 **NIPS'18**, [A Practical Algorithm for Distributed Clustering and Outlier Detection](https://arxiv.org/abs/1805.09495)  
@@ -42,7 +42,7 @@ publication_type = "-1"
   ___Jiecao Chen___, [Qin Zhang](http://homes.sice.indiana.edu/qzhangcs/)
   
 **ICML'17**, [Adaptive Multiple-Arm Identification](https://arxiv.org/pdf/1706.01026.pdf)   
-  ___Jiecao Chen__, [Xi Chen](http://people.stern.nyu.edu/xchen3/), [Qin Zhang](http://homes.sice.indiana.edu/qzhangcs/), [Yuan Zhou](http://homes.sice.indiana.edu/yzhoucs/)
+  ___Jiecao Chen___, [Xi Chen](http://people.stern.nyu.edu/xchen3/), [Qin Zhang](http://homes.sice.indiana.edu/qzhangcs/), [Yuan Zhou](http://homes.sice.indiana.edu/yzhoucs/)
 
 **VLDB'17**, [Bias-Aware Sketches](http://arxiv.org/abs/1610.07718)   
   ___Jiecao Chen___, [Qin Zhang](http://homes.sice.indiana.edu/qzhangcs/)
