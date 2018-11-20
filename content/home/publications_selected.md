@@ -3,7 +3,7 @@
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Selected Publications"
@@ -32,3 +32,8 @@ list_format = 1
 publication_type = "-1"
 +++
 
+**NIPS'18**, [Tight Bounds for Collaborative PAC Learning via Multiplicative Weights](https://arxiv.org/abs/1805.09217),  
+  ___Jiecao Chen___, [Qin Zhang](http://homes.sice.indiana.edu/qzhangcs/), [Yuan Zhou](http://homes.sice.indiana.edu/yzhoucs/)
+
+**NIPS'18**, [A Practical Algorithm for Distributed Clustering and Outlier Detection](https://arxiv.org/abs/1805.09495)  
+  ___Jiecao Chen___, [Erfan Sadeqi Azer](http://homes.sice.indiana.edu/esadeqia/), [Qin Zhang](http://homes.sice.indiana.edu/qzhangcs/)
