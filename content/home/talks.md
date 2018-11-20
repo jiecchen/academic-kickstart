@@ -1,10 +1,10 @@
 +++
 # Recent and Upcoming Talks widget.
-widget = "talks"
+widget = "news"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent & Upcoming Talks"
+title = "Recent News"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -23,3 +23,4 @@ list_format = 2
 exclude_selected = false
 +++
 
+- Two papers got accepted to NIPS'18 and I will attend the conference.
