@@ -300,10 +300,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "News"
-  url = "#talks"
-  weight = 2
+# [[menu.main]]
+#  name = "News"
+#  url = "#talks"
+#  weight = 2
 
 [[menu.main]]
   name = "Contact"
