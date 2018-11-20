@@ -8,3 +8,4 @@ math: true
 ## This is a test
 
 Look at this $x^2 = \sum_i y_i$.
+![Example image](/static/p.jpg)
