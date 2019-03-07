@@ -10,16 +10,17 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Natural Language Processing",
     "Randomized Algorithms",
     "Big Data Analytics",
-    "Machine Learning"
+    "Scalable Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Indiana University Bloomington"
-#  year = 2014-Current
+#  year = 
 
 [[education.courses]]
   course = "BA in Mathematics"
@@ -35,4 +36,4 @@ weight = 5
 
 # Biography
 
-I am a PhD student from Dept. of Computer Science at IUB. I am mostly working with Prof. Qin Zhang. Before coming to IUB, I studied math and computer science at University of Minnesota and did my senior project under Prof. [Sergey Bobkov](http://www-users.math.umn.edu/~bobko001/). I also worked for Wolfram Research, Google Ads and Google AI.
+I am now at Google AI.
